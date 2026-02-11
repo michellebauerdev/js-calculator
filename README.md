@@ -1,20 +1,24 @@
-# JS Calculator
+JS Calculator
+=============
 
-A simple browser-based calculator built with JavaScript, HTML and CSS.
+Simple browser-based calculator built with JavaScript, HTML and CSS.
 
-## Overview
+Overview
+--------
 
-This project implements a basic calculator that performs standard arithmetic operations. 
-It focuses on clean UI design and fundamental JavaScript concepts.
+Basic calculator supporting standard arithmetic operations.
+Focus on DOM manipulation, event handling and clean UI structure.
 
-## Features
+Features
+--------
 
-- Addition, subtraction, multiplication and division
-- Clear (C) and backspace functionality
+- Addition, subtraction, multiplication, division
+- Clear (C) and backspace
 - Responsive layout
 
-## Tech Stack
+Tech Stack
+----------
 
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript
