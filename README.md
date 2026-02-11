@@ -1,8 +1,8 @@
 # ✿ JS Calculator
 
-A simple browser calculator built with JavaScript.
+A simple browser-based calculator built with JavaScript.
 
-˚ ༘ ✦ Add  •  Subtract  •  Multiply  •  Divide  
-𓂃 𓈒𓏸 Clean UI  •  Responsive layout  
+Add • Subtract • Multiply • Divide  
+Responsive layout  
 
-⋆ ˚｡⋆୨୧˚
+─── ୨୧ ───
